@@ -1,8 +1,8 @@
 # codesmith-js
 csx.codesmith.io JS instructional
 
-0xx.js = Variables and Types. 
-1xx.js = Arrays, Loops & Objects. 
+0xx.js = Variables and Types\
+1xx.js = Arrays, Loops & Objects\ 
 2xx.js = Functions. 
 3xx.js = Callbacks. 
 4xx.js = Closure. 
